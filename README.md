@@ -27,9 +27,9 @@ Graduate of **GoIT Fullstack Development Program (2025)**.
 Responsive landing page for Grosters company with modals, animations and clean layout.  
 **Tech:** HTML, SASS, JS | **Role:** Solo Developer  
 
-📌 **[Filmoteka](https://github.com/AndriiButenko05/Project)**  
-Interactive movie browsing platform with search and dynamic content loading.  
-**Tech:** HTML, SASS, JS | **Role:** Solo Developer  
+📌 **[Book Shop](https://github.com/AndriiButenko05/project-js-06)**  
+Interactive book browsing platform with categories and dynamic content loading.  
+**Tech:** HTML, SASS, JS | **Role:** Team Developer (Feedbacks Section, loader, theme switcher + js work)
 
 📌 **[Yacht Rent](https://github.com/netkatya/team-6-project)**  
 Promo website for YachtJet with custom rental interface.  
