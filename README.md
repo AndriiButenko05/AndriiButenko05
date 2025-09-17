@@ -5,7 +5,9 @@
 
 ### 🧾 About Me
 
-I'm a Frontend Developer passionate about crafting beautiful and user-friendly web interfaces.  
+Inspired Frontend developer with strong analytical thinking and well-developed organizational skills. 
+Ambitious, highly responsible, punctual, and goal-oriented person, always ready to learn and gain new experiences. 
+Fast learner, responsible and always up for a challenge.
 Currently living in **Wrocław, Poland**, and studying **Cloud Application Programming with AI** at [WSB Merito University](https://www.merito.pl/wroclaw/studia-i-szkolenia/studia-i-stopnia/kierunki-i-specjalnosci/informatyka/programista-aplikacji-w-chmurze-z-wykorzystaniem-ai).  
 Graduate of **GoIT Fullstack Development Program (2025)**.
 
@@ -15,7 +17,7 @@ Graduate of **GoIT Fullstack Development Program (2025)**.
 
 Frontend:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
 
 Backend:
 
@@ -29,9 +31,11 @@ Tools:
 
 ### 🚀 Projects
 
-📌 **[Citizenship](https://github.com/AndriiButenko05/project-grosters)**  
-Responsive landing page for Grosters company with modals, animations and clean layout.  
-**Tech:** HTML, SASS, JS | **Role:** Solo Developer  
+📌 **[Movie Gallery](https://github.com/AndriiButenko05/movie-gallery-project)**  
+Individual project – a movie gallery website powered by TheMovieDB API. Built with Next.js, TypeScript, and React Query. 
+Focused on adaptive design, and SEO-friendly metadata. 
+Includes movie search with debounced input, genre-based filtering, pagination
+**Tech:** [![My Skills](https://skillicons.dev/icons?i=css,ts,nextjs,vercel)](https://skillicons.dev)| **Role:** Solo Developer  
 
 📌 **[Book Shop](https://github.com/AndriiButenko05/project-js-06)**  
 Interactive book browsing platform with categories and dynamic content loading.  
