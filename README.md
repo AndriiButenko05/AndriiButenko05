@@ -15,13 +15,15 @@ Graduate of **GoIT Fullstack Development Program (2025)**.
 
 Frontend:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs)](https://skillicons.dev)
 
 Backend:
+
 Learning now...
 
 Tools:
-Git GitHub VS Code
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,postman,windows)](https://skillicons.dev)
 
 ---
 
