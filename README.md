@@ -13,11 +13,14 @@ Graduate of **GoIT Fullstack Development Program (2025)**.
 
 ### 🛠 Tech Stack
 
-- HTML5 / CSS3 / SASS  
-- JavaScript (ES6+)  
-- Git / GitHub  
-- Responsive & Adaptive Design  
-- Teamwork & Code Collaboration  
+Frontend:
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+Backend:
+Learning now...
+
+Tools:
+Git GitHub VS Code
 
 ---
 
