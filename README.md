@@ -7,7 +7,8 @@
 
 Inspired Frontend developer with strong analytical thinking and well-developed organizational skills. 
 Ambitious, highly responsible, punctual, and goal-oriented person, always ready to learn and gain new experiences. 
-Fast learner, responsible and always up for a challenge.
+Fast learner, responsible and always up for a challenge.  
+
 Currently living in **Wrocław, Poland**, and studying **Cloud Application Programming with AI** at [WSB Merito University](https://www.merito.pl/wroclaw/studia-i-szkolenia/studia-i-stopnia/kierunki-i-specjalnosci/informatyka/programista-aplikacji-w-chmurze-z-wykorzystaniem-ai).  
 Graduate of **GoIT Fullstack Development Program (2025)**.
 
