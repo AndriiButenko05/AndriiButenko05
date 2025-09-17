@@ -32,22 +32,32 @@ Tools:
 ### 🚀 Projects
 
 📌 **[Movie Gallery](https://github.com/AndriiButenko05/movie-gallery-project)**  
-Individual project – a movie gallery website powered by TheMovieDB API. Built with Next.js, TypeScript, and React Query. 
+A movie gallery website powered by TheMovieDB API. Built with Next.js, TypeScript, and React Query. 
 Focused on adaptive design, and SEO-friendly metadata. 
 Includes movie search with debounced input, genre-based filtering, pagination.
+
 **Tech:** REACT,CSS,TYPESCRIPT,VERCEL| **Role:** Solo Developer  
 
+📌 **[NoteHub](https://github.com/AndriiButenko05/09-auth)**  
+Authentication system built with Next.js and TypeScript.
+Implements protected routes, user sign-in and sign-up flows, and session management. 
+Responsible for backend-integrated login logic, custom middleware, and UI components for auth pages.
+
+**Tech:** REACT,TYPESCRIPT,CSS,VERCEL | **Role:** Solo Developer 
+
 📌 **[Book Shop](https://github.com/AndriiButenko05/project-js-06)**  
-Interactive book browsing platform with categories and dynamic content loading.  
-**Tech:** HTML, SASS, JS | **Role:** Team Developer (Feedbacks Section, loader, theme switcher + js work)
+A book browsing platform utilizing HTML, SASS, and JavaScript. 
+Designed with responsive layout and smooth transitions. 
+Includes dynamic UI elements and modular code structure for scalability.
 
-📌 **[Yacht Rent](https://github.com/netkatya/team-6-project)**  
-Promo website for YachtJet with custom rental interface.  
-**Tech:** HTML, SASS, JS | **Role:** Team Developer (Rent section)
+**Tech:** HTML, SASS, JS | **Role:** Team Developer (Developer of feedbacks section, theme switcher, loader + additional JS work)
 
-📌 **[Online Store](https://github.com/AndriiButenko05/Project)**  
-E-commerce website with product list, filtering system and cart modal.  
-**Tech:** HTML, SASS, JS | **Role:** Team Developer (Catalog & Cart)
+📌 **[Grosters Company](https://github.com/AndriiButenko05/project-grosters)**  
+A responsive website for Grosters company built with HTML, SASS, and JavaScript. 
+Features include smooth animations, interactive modal windows, and a clean UI/UX approach. 
+Emphasis on modern layout and user-friendly navigation.  
+
+**Tech:** HTML, SASS, JS | **Role:** Solo Developer 
 
 ---
 
@@ -57,7 +67,8 @@ E-commerce website with product list, filtering system and cart modal.
 - Phone: [+48 734 766 886](tel:+48734766886)  
 - Telegram: [@AndriiButenko05](https://t.me/AndriiButenko05)  
 - GitHub: [AndriiButenko05](https://github.com/AndriiButenko05)
+- LinkedIn: [Andrii Butenko](https://www.linkedin.com/in/andrii-butenko-5190a6371)
 
 ---
 
-### 🖤 Thank you for visiting!
+### Thank you for visiting!
