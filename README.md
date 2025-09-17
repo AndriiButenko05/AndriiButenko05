@@ -34,7 +34,7 @@ Tools:
 📌 **[Movie Gallery](https://github.com/AndriiButenko05/movie-gallery-project)**  
 Individual project – a movie gallery website powered by TheMovieDB API. Built with Next.js, TypeScript, and React Query. 
 Focused on adaptive design, and SEO-friendly metadata. 
-Includes movie search with debounced input, genre-based filtering, pagination
+Includes movie search with debounced input, genre-based filtering, pagination.
 **Tech:** REACT,CSS,TYPESCRIPT,VERCEL| **Role:** Solo Developer  
 
 📌 **[Book Shop](https://github.com/AndriiButenko05/project-js-06)**  
