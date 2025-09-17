@@ -32,9 +32,12 @@ Tools:
 ### 🚀 Projects
 
 📌 **[Movie Gallery](https://github.com/AndriiButenko05/movie-gallery-project)**  
-A movie gallery website powered by TheMovieDB API. Built with Next.js, TypeScript, and React Query. 
-Focused on adaptive design, and SEO-friendly metadata. 
-Includes movie search with debounced input, genre-based filtering, pagination.
+A movie gallery website powered by TheMovieDB API. Built with Next.js, TypeScript, and React Query.  
+
+Focused on adaptive design, and SEO-friendly metadata.  
+
+Includes movie search with debounced input, genre-based filtering, pagination.  
+
 
 **Tech:** REACT,CSS,TYPESCRIPT,VERCEL | **Role:** Solo Developer  
 
@@ -54,8 +57,8 @@ Includes dynamic UI elements and modular code structure for scalability.
 
 📌 **[Grosters Company](https://github.com/AndriiButenko05/project-grosters)**  
 A responsive website for Grosters company built with HTML, SASS, and JavaScript.  
-Features include smooth animations, interactive modal windows, and a clean UI/UX approach.   
-Emphasis on modern layout and user-friendly navigation.    
+Features include smooth animations, interactive modal windows, and a clean UI/UX approach.
+Emphasis on modern layout and user-friendly navigation.
 
 **Tech:** HTML, SASS, JS | **Role:** Solo Developer 
 
