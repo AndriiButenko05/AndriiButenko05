@@ -14,7 +14,7 @@ Graduate of **GoIT Fullstack Development Program (2025)**.
 ### 🛠 Tech Stack
 
 Frontend:
-(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Backend:
 Learning now...
