@@ -30,7 +30,34 @@ Tools:
 
 ---
 
-### 🚀 Projects
+### 🚀 Fullstack Projects
+
+📌 **[Clothica-shop](https://github.com/netkatya/clothica-shop)**
+
+Clothica Shop is a modern online storefront designed to showcase clothing items in a clean and visually appealing layout. 
+The site features a main page with highlighted popular products and intuitive navigation for exploring the full goods catalog. 
+With a focus on simplicity and usability, it delivers a smooth shopping-browse experience entirely on the frontend.
+
+**Tech:** NEXT,CSS,TYPESCRIPT,VERCEL| **Role:** Team Developer (Built the entire Goods page, created the footer, and implemented the “Popular Goods” section on the main page)
+
+📌 **[Online-shop](https://github.com/netkatya/online-shop)**
+
+Implemented the Goods page, including the product layout, UI, and dynamic rendering of items from the backend.
+I also created the Login and Registration pages with full authentication flow and validation.
+In addition, I worked on several backend features such as API routes and logic for user authentication and product handling, helping connect the frontend with the server.
+
+**Tech:** NEXT,TAILWIND,TYPESCRIPT,VERCEL,EXPRESS,NODE | **Role:** Team Developer (Implemented the Goods page and Login/Registration functionality, plus backend API work)
+
+
+
+### 🚀 Frontend Projects
+
+📌 **[Js-game](https://github.com/netkatya/js-game)**
+
+A.R.I. - Learn JavaScript is an interactive game designed to test and improve your JavaScript skills.
+It features a modern interface, smooth animations, and multiple coding levels where you can write and execute real code in the browser. 
+
+**Tech:** NEXT,TAILWIND,TYPESCRIPT,VERCEL | **Role:** Team Developer(Developed logic of levels and local storage)
 
 📌 **[Movie Gallery](https://github.com/AndriiButenko05/movie-gallery-project)**
 
