@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrii Butenko 👋</h1>
-<h3 align="center">Frontend Developer | Clean code enthusiast | UI/UX admirer</h3>
+<h3 align="center">Fullstack Developer | Clean code enthusiast | UI/UX admirer</h3>
 
 ---
 
@@ -42,9 +42,9 @@ With a focus on simplicity and usability, it delivers a smooth shopping-browse e
 
 📌 **[Online-shop](https://github.com/netkatya/online-shop)**
 
-Implemented the Goods page, including the product layout, UI, and dynamic rendering of items from the backend.
-I also created the Login and Registration pages with full authentication flow and validation.
-In addition, I worked on several backend features such as API routes and logic for user authentication and product handling, helping connect the frontend with the server.
+This is a full-stack online shop that allows users to browse a catalog of goods through a well-structured and responsive Goods page.
+It features secure user authentication with login and registration flows integrated with a backend. 
+The site also connects the frontend to a server-side API, providing real-time data and a seamless shopping experience
 
 **Tech:** NEXT,TAILWIND,TYPESCRIPT,VERCEL,EXPRESS,NODE | **Role:** Team Developer (Implemented the Goods page and Login/Registration functionality, plus backend API work)
 
