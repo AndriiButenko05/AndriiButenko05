@@ -32,7 +32,7 @@ Tools:
 
 ### 🚀 Fullstack Projects
 
-📌 **[Clothica-shop](https://github.com/netkatya/clothica-shop)**
+📌 **[Clothica-shop](https://github.com/AndriiButenko05/clothica-shop)**
 
 Clothica Shop is a modern online storefront designed to showcase clothing items in a clean and visually appealing layout. 
 The site features a main page with highlighted popular products and intuitive navigation for exploring the full goods catalog. 
@@ -40,7 +40,7 @@ With a focus on simplicity and usability, it delivers a smooth shopping-browse e
 
 **Tech:** NEXT,CSS,TYPESCRIPT,VERCEL| **Role:** Team Developer (Built the entire Goods page, created the footer, and implemented the “Popular Goods” section on the main page)
 
-📌 **[Online-shop](https://github.com/netkatya/online-shop)**
+📌 **[Online-shop](https://github.com/AndriiButenko05/online-shop)**
 
 This is a full-stack online shop that allows users to browse a catalog of goods through a well-structured and responsive Goods page.
 It features secure user authentication with login and registration flows integrated with a backend. 
