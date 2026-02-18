@@ -3,14 +3,19 @@
 
 ---
 
-### 🧾 About Me
+### 👨‍💻 About Me
 
-Inspired Frontend developer with strong analytical thinking and well-developed organizational skills. 
-Ambitious, highly responsible, punctual, and goal-oriented person, always ready to learn and gain new experiences. 
-Fast learner, responsible and always up for a challenge.  
+Hi there! 👋 I'm Andrii, a **Fullstack Developer** based in Wrocław, passionate about building modern, scalable, and user-friendly web applications. 
 
-Currently living in **Wrocław, Poland**, and studying **Cloud Application Programming with AI** at [WSB Merito University](https://www.merito.pl/wroclaw/studia-i-szkolenia/studia-i-stopnia/kierunki-i-specjalnosci/informatyka/programista-aplikacji-w-chmurze-z-wykorzystaniem-ai).  
-Graduate of **GoIT Fullstack Development Program (2025)**.
+I combine strong analytical thinking with a goal-oriented mindset to turn complex problems into clean, efficient code. I'm a fast learner who thrives on challenges and is always exploring new technologies—especially cloud architecture and AI integration.
+
+- [cite_start]🌍 I'm currently studying **Cloud Application Development** at WSB Merito University[cite: 51, 53, 109, 111].
+- [cite_start]💻 **My Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js[cite: 14, 17, 18, 71, 74, 75].
+- 🚀 **What I do:** I specialize in responsive e-commerce platforms, interactive web apps, and utilizing AI tools to optimize the development process.
+- 🌱 **Currently learning:** Advanced Next.js features and deeper Cloud/Backend integrations.
+- [cite_start]⚡ **Soft Skills:** Highly organized, cooperative team player (Agile/Scrum), and always up for a coding challenge[cite: 20, 21, 24, 77, 78, 81].
+
+📫 **Let's connect:** [https://www.linkedin.com/in/andriibutenkodeveloper/]
 
 ---
 
