@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andriibutenkodeveloper/">LinkedIn</a> ·
-  <a href="[your portfolio link]">Portfolio</a> ·
+  <a href="https://andrii-butenko-portfolio.vercel.app">Portfolio</a> ·
   andrejbutik@gmail.com
 </p>
 
