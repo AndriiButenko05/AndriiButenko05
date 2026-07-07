@@ -2,8 +2,8 @@
 <h3 align="center">Frontend Developer · React · TypeScript · Next.js</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andriibutenkodeveloper/">LinkedIn</a> ·
-  <a href="https://andrii-butenko-portfolio.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/andriibutenkodeveloper/" target="_blank">LinkedIn</a> ·
+  <a href="https://andrii-butenko-portfolio.vercel.app" target="_blank">Portfolio</a> ·
   andrejbutik@gmail.com
 </p>
 
