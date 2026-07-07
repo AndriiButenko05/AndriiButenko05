@@ -1,111 +1,99 @@
-<h1 align="center">Hi, I'm Andrii Butenko 👋</h1>
-<h3 align="center">Fullstack Developer | Clean code enthusiast | UI/UX admirer</h3>
+<h1 align="center">Andrii Butenko</h1>
+<h3 align="center">Frontend Developer · React · TypeScript · Next.js</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andriibutenkodeveloper/">LinkedIn</a> ·
+  <a href="[your portfolio link]">Portfolio</a> ·
+  andrejbutik@gmail.com
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-Hi there! 👋 I'm Andrii, a **Fullstack Developer** based in Wrocław, passionate about building modern, scalable, and user-friendly web applications. 
+Frontend Developer with commercial experience across three production 
+environments. Currently building a multi-module CRM platform at Emdula 
+and previously delivered full-stack features on a HIPAA-compliant 
+healthcare application at ZenBit.
 
-I combine strong analytical thinking with a goal-oriented mindset to turn complex problems into clean, efficient code. I'm a fast learner who thrives on challenges and is always exploring new technologies—especially cloud architecture and AI integration.
-
-- 🌍 I'm currently studying **Cloud Application Development** at WSB Merito University.
-- 💻 **My Stack:** React, Next.js, TypeScript, Tailwind CSS, Node.js.
-- 🚀 **What I do:** I specialize in responsive e-commerce platforms, interactive web apps, and utilizing AI tools to optimize the development process.
-- 🌱 **Currently learning:** Advanced Next.js features and deeper Cloud/Backend integrations.
-- ⚡ **Soft Skills:** Highly organized, cooperative team player (Agile/Scrum), and always up for a coding challenge.
-
-📫 **Let's connect:** [https://www.linkedin.com/in/andriibutenkodeveloper/]
-
----
-
-### 🛠 Tech Stack
-
-Frontend:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs)](https://skillicons.dev)
-
-Backend:
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
-
-Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,postman,windows,powershell)](https://skillicons.dev)
+- 🏢 **Emdula** — Frontend Developer (Jan 2026–Present)
+  Cut main bundle 685 KB → 341 KB, restructured 149-component 
+  codebase into domain architecture, hardened EN/UK i18n with CI checks
+- 🏥 **ZenBit** — Full-Stack Developer Intern (Mar–May 2026)
+  Magic-link auth end-to-end (React + Nest.js), 4-step 
+  patient data de-identification flow, HIPAA-compliant healthcare app
+- 🌐 **Grosters** — Freelance (May–Oct 2025)
+  Solo delivery, Lighthouse 99 Performance / 100 Best Practices / 
+  91 Accessibility · [grosters.com](https://grosters.com)
 
 ---
 
-### 🚀 Fullstack Projects
+### Tech Stack
 
-📌 **[Clothica-shop](https://github.com/AndriiButenko05/clothica-shop)**
+**Frontend**
 
-Clothica Shop is a modern online storefront designed to showcase clothing items in a clean and visually appealing layout. 
-The site features a main page with highlighted popular products and intuitive navigation for exploring the full goods catalog. 
-With a focus on simplicity and usability, it delivers a smooth shopping-browse experience entirely on the frontend.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Tech:** NEXT,CSS,TYPESCRIPT,VERCEL| **Role:** Team Developer (Built the entire Goods page, created the footer, and implemented the “Popular Goods” section on the main page)
+**State & Data**
 
-📌 **[Online-shop](https://github.com/AndriiButenko05/online-shop)**
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zustand&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 
-This is a full-stack online shop that allows users to browse a catalog of goods through a well-structured and responsive Goods page.
-It features secure user authentication with login and registration flows integrated with a backend. 
-The site also connects the frontend to a server-side API, providing real-time data and a seamless shopping experience
+**Backend**
 
-**Tech:** NEXT,TAILWIND,TYPESCRIPT,VERCEL,EXPRESS,NODE | **Role:** Team Developer (Implemented the Goods page and Login/Registration functionality, plus backend API work)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+**Tools**
 
-
-### 🚀 Frontend Projects
-
-📌 **[Js-game](https://github.com/netkatya/js-game)**
-
-A.R.I. - Learn JavaScript is an interactive game designed to test and improve your JavaScript skills.
-It features a modern interface, smooth animations, and multiple coding levels where you can write and execute real code in the browser. 
-
-**Tech:** NEXT,TAILWIND,TYPESCRIPT,VERCEL | **Role:** Team Developer(Developed logic of levels and local storage)
-
-📌 **[Movie Gallery](https://github.com/AndriiButenko05/movie-gallery-project)**
-
-A movie gallery website powered by TheMovieDB API. Built with Next.js, TypeScript, and React Query.  
-Focused on adaptive design, and SEO-friendly metadata.  
-Includes movie search with debounced input, genre-based filtering, pagination.  
-
-**Tech:** REACT,CSS,TYPESCRIPT,VERCEL | **Role:** Solo Developer  
-
-📌 **[NoteHub](https://github.com/AndriiButenko05/09-auth)**
-
-Authentication system built with Next.js and TypeScript.  
-Implements protected routes, user sign-in and sign-up flows, and session management.  
-Responsible for backend-integrated login logic, custom middleware, and UI components for auth pages.  
-
-**Tech:** REACT,TYPESCRIPT,CSS,VERCEL | **Role:** Solo Developer 
-
-📌 **[Book Shop](https://github.com/AndriiButenko05/project-js-06)**
-
-A book browsing platform utilizing HTML, SASS, and JavaScript.  
-Designed with responsive layout and smooth transitions.  
-Includes dynamic UI elements and modular code structure for scalability.  
-
-**Tech:** HTML, SASS, JS | **Role:** Team Developer (Developer of feedbacks section, theme switcher, loader + additional JS work)
-
-📌 **[Grosters Company](https://github.com/AndriiButenko05/project-grosters)**
-
-A responsive website for Grosters company built with HTML, SASS, and JavaScript.  
-Features include smooth animations, interactive modal windows, and a clean UI/UX approach.
-Emphasis on modern layout and user-friendly navigation.
-
-**Tech:** HTML, SASS, JS | **Role:** Solo Developer 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 📫 Contact Me
+### Projects
 
-- Email: andrejbutik@gmail.com  
-- Phone: [+48 734 766 886](tel:+48734766886)  
-- Telegram: [@AndriiButenko05](https://t.me/AndriiButenko05)  
-- GitHub: [AndriiButenko05](https://github.com/AndriiButenko05)
-- LinkedIn: [Andrii Butenko](https://www.linkedin.com/in/andrii-butenko-5190a6371)
+> ⚠️ Production work (Emdula, ZenBit) is proprietary / under NDA.
+> The projects below are personal and bootcamp work.
+
+**[Movie Gallery](https://github.com/AndriiButenko05/movie-gallery-project)**
+Movie search app powered by TheMovieDB API — Next.js, TypeScript, 
+React Query, debounced search, genre filtering, pagination.
+`Solo` · Next.js · TypeScript · React Query
+
+**[NoteHub](https://github.com/AndriiButenko05/09-auth)**
+Authentication system with protected routes, sign-in/sign-up flows, 
+session management, custom middleware.
+`Solo` · Next.js · TypeScript
+
+**[Clothica Shop](https://github.com/AndriiButenko05/clothica-shop)**
+E-commerce storefront — main page, product catalog, navigation.
+`Team` · Next.js · TypeScript · Vercel
+
+**[Online Shop](https://github.com/AndriiButenko05/online-shop)**
+Full-stack shop with auth, Goods page, backend API integration.
+`Team` · Next.js · Tailwind · Node.js · Express · Vercel
+
+**[Grosters Company](https://github.com/AndriiButenko05/project-grosters)**
+Responsive commercial website — animations, modals, clean UI/UX.
+Lighthouse 99 Performance · [Live site](https://grosters.com)
+`Solo` · HTML · SASS · JavaScript
 
 ---
 
-### Thank you for visiting!
+### Contact
+
+📧 andrejbutik@gmail.com
+📱 +48 734 766 886
+💼 [LinkedIn](https://www.linkedin.com/in/andriibutenkodeveloper/)
+🌐 [Portfolio]([your portfolio link])
