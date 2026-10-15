@@ -24,16 +24,16 @@ Used to working in cross-functional teams with designers, QA and product owners.
   Multi-brand consumer platform, 30+ locales: Astro SSR + Spring Boot, A/B and painted-door
   experiments, shared client JS moved out of the backend, build-time locale consistency checks
 - 🎰 **Slotstars** — Frontend Developer (Jun – Oct 2026, part-time)
-  Regulated multi-brand casino platform: 30+ merged PRs, Swedish market launch work,
-  fixed a translation race condition, consolidated the design system
+  Regulated multi-brand casino on the SkillOnNet API (UK, Spain, Sweden, MGA): 38 merged PRs,
+  Swedish market launch, fixed an i18n init race, consolidated typography
 - 🏢 **Emdula** — Frontend Developer (Jan – Aug 2026)
-  Cut main bundle 685 KB → 341 KB, restructured a 149-component codebase into
-  domain architecture, EN/UK i18n with CI checks
+  React CRM for real-estate agencies: main JS chunk −45% (621 → 341 KB gzip) via route-level
+  code splitting, ESLint backlog 225 → 0, components reorganized into 21 domain folders
 - 🏥 **ZenBit** — Full-Stack Developer Intern (Mar – May 2026)
-  Magic-link auth end-to-end (React + NestJS), 4-step patient data
-  de-identification flow, HIPAA-compliant healthcare app
+  Passwordless magic-link auth end to end (React + NestJS, TypeORM/MySQL, JWT, Swagger),
+  4-step clinical-data de-identification wizard UI, app shell and dashboard
 - 🛠️ **Freelance** — Frontend Developer (May 2025 – Present)
-  Websites built to order: VM Design (Lighthouse 100, 5 locales) and Grosters (solo delivery)
+  Websites built to order: VM Design (5 locales, technical SEO, Lighthouse 100 desktop) and Grosters (solo delivery)
 
 ---
 
@@ -62,7 +62,8 @@ Used to working in cross-functional teams with designers, QA and product owners.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot%20(working%20knowledge)-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 **Cloud & DevOps**
@@ -93,10 +94,11 @@ Used to working in cross-functional teams with designers, QA and product owners.
 #### Live client sites
 
 **[VM Design](https://vmdesignproject.com)**
-Multilingual portfolio site for an interior architecture studio — 22 projects, 5 locales, ~190 pages,
-~5,000 AVIF/WebP image variants, custom SVG maps, deployed on Cloudflare.
-Lighthouse 100 in all four categories (mobile and desktop).
-`Freelance` · Astro · TypeScript · SASS · Cloudflare Workers
+Multilingual portfolio site for an interior architecture studio — 22 projects, 5 locales, 216 static pages,
+4,500+ AVIF/WebP image variants, WebGL gallery (OGL), custom SVG maps from GeoJSON, technical SEO
+(hreflang, i18n sitemap, JSON-LD), CI/CD from GitHub Actions to Cloudflare Workers.
+Lighthouse 100 in all four categories on desktop; 96+ Performance and 100 in the rest on mobile.
+`Freelance` · Astro · TypeScript · OGL · Cloudflare Workers · GitHub Actions
 
 **[Grosters](https://grosters.com)**
 Responsive 4-page commercial website — animations, modals, clean UI/UX.
